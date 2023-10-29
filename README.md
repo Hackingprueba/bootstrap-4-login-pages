@@ -4,7 +4,7 @@
 
 [![GitHub license](https://img.shields.io/github/license/nauvalazhar/my-login.svg)](https://github.com/nauvalazhar/my-login/blob/master/LICENSE)
 ![Author](https://img.shields.io/badge/author-%40nauvalazhar-blue.svg)
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/nauvalazhar/my-login/.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fnauvalazhar%2Fmy-login%2F)
+
 
 My Login is a Bootstrap 4 Login Page Snippet, you can use it as you wish and it's free for personal or commercial use.
 
