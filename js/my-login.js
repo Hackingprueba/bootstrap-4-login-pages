@@ -4,7 +4,6 @@
  * Bootstrap 4 Login Page
  *
  * @author          Master Georgie
- * @uri 			https://nauval.in
  * @copyright       Copyright (c) 2018 Muhamad Nauval Azhar
  * @license         My Login is licensed under the MIT license.
  * @github          https://github.com/Hackingprueba
