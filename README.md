@@ -3,7 +3,7 @@
 # Bootstrap 4 Login Page Template
 
 [![GitHub license](https://img.shields.io/github/license/nauvalazhar/my-login.svg)](https://github.com/nauvalazhar/my-login/blob/master/LICENSE)
-![Author](https://img.shields.io/badge/author-%40nauvalazhar-blue.svg)
+![Author](https://img.shields.io/badge/author-%40ByGeorgie-blue.svg)
 
 
 My Login is a Bootstrap 4 Login Page Snippet, you can use it as you wish and it's free for personal or commercial use.
